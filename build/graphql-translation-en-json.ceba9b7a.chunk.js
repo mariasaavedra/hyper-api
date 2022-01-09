@@ -1,0 +1,1 @@
+(self.webpackChunkapp=self.webpackChunkapp||[]).push([[9605],{63147:p=>{"use strict";p.exports=JSON.parse('{"plugin.description.long":"Adds GraphQL endpoint with default API methods.","plugin.description.short":"Adds GraphQL endpoint with default API methods."}')}}]);
